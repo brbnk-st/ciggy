@@ -3,6 +3,7 @@
 #include <string.h>
 #include <time.h>
 
+//Function to load the frames 
 int show_frame(char *file_name){
     FILE *fp;
     char str[50];
